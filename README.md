@@ -19,10 +19,10 @@ Each subproject keeps its source and build configuration in its own directory. T
 
 ## Development
 
-- [OpenSpec](openspec/) holds specifications and changes for the monorepo.
+- [PentaPRO](pentapro/) holds the five-pillar specification and native change records.
 - [Development strategy](docs/DEVELOPMENT-STRATEGY.md) describes how the Android pilot will be specified, implemented, and verified.
 - [Pilot log](docs/DEVELOPMENT-LOG.md) records the setup baseline and development evidence.
-- [Product discovery notes](docs/Yo-Fi_5PRO.md) capture the original concept in Portuguese. The first Android journey and its acceptance criteria are pending discovery.
+- [Product discovery notes](docs/Yo-Fi_ideia.md) capture the original concept in Portuguese. The first Android journey and its acceptance criteria are pending discovery.
 - [Repository instructions](AGENTS.md) cover shared conventions, including English for repository content and localized app text.
 
 ## Data Privacy
@@ -37,7 +37,7 @@ Each subproject keeps its source and build configuration in its own directory. T
 
 This project is licensed under the **GPL v3.0 License**.
 
-See [LICENSE](.etc/LICENSE) for more details.
+See [LICENSE](LICENSE) for more details.
 
 ---
 
@@ -48,9 +48,9 @@ Made in Brazil, in the Land of Oz (SP) , with 🌭 🍕 and AI 🤖.
 
 ## PentaPRO specification
 
-The [repository-root PentaPRO structure](pentapro/README.md) contains the five pillar directories and supporting assets. Its [status record](pentapro/process/index.md) identifies existing discovery material and the next decisions. OpenSpec change artifacts remain under [openspec](openspec/).
+The [repository-root PentaPRO structure](pentapro/README.md) contains the five pillars, supporting assets, and native change records. Its [status record](pentapro/process/index.md) identifies confirmed project context, pending decisions, and the next discovery step.
 
 
 ## AI development workflow
 
-This repository uses project-local PentaPRO skills and factory agent profiles together with [OpenSpec](openspec/). See [agent instructions](AGENTS.md) for the project workflow. The [continuous improvement protocol](docs/agents/continuous-improvement.md) describes PDSA and the [lessons record](docs/agents/lessons-learned.md); substantial factory runs use the [execution-record guide](docs/agents/runs/README.md). Lessons are recorded in English.
+This repository uses project-local PentaPRO skills and factory agent profiles with the native PentaPRO workflow. See [agent instructions](AGENTS.md) for the project workflow. The [continuous improvement protocol](docs/agents/continuous-improvement.md) describes PDSA and the [lessons record](docs/agents/lessons-learned.md); substantial factory runs use the [execution-record guide](docs/agents/runs/README.md). Lessons are recorded in English.

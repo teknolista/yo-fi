@@ -10,4 +10,4 @@ This workspace will host the promotional site for the Yo-Fi Android app. Landing
 
 Node.js will run the development and build tools when web work begins. Choose the tooling and scripting language when the landing page scope is defined.
 
-See the [repository README](../README.md), [web instructions](AGENTS.md), and [shared OpenSpec project](../openspec/).
+See the [repository README](../README.md), [web instructions](AGENTS.md), and shared [PentaPRO status](../pentapro/process/index.md).

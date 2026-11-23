@@ -1,5 +1,9 @@
 # PROOF · Verification
 
-Purpose: Representative, boundary, adversarial, security, privacy, accessibility, performance and recovery checks.
+The setup build and emulator checks are recorded in the [development log](../../docs/DEVELOPMENT-LOG.md). They cover the starter Android workspace and do not establish acceptance of a product journey.
 
-Status: Pending project-specific specification. Record confirmed facts, proposals, open decisions and their sources separately. Link canonical IDs and relevant assets instead of copying another record.
+For each material change, link PentaPRO acceptance scenarios to checks at the relevant boundary, record the tested revision and platform, and identify unavailable coverage. First-journey and service-level verification criteria remain Pending until product discovery settles the scope.
+
+## Documentation reconciliation — 2026-11-23
+
+Confirmed source context, proposals and open decisions are captured in [the active change](../changes/android-journey-discovery/change.md), specifically [PROOF](../changes/android-journey-discovery/proof.md). This root topic remains Pending until approved consolidation.

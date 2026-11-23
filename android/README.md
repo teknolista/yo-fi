@@ -30,4 +30,4 @@ The debug APK is generated at `app/build/outputs/apk/debug/app-debug.apk`. Use `
 
 The initial application ID is `com.teknolista.yofi`. Confirm the application ID and supported device range before preparing a release.
 
-See the [repository README](../README.md), [Android instructions](AGENTS.md), and [shared OpenSpec project](../openspec/).
+See the [repository README](../README.md), [Android instructions](AGENTS.md), and shared [PentaPRO status](../pentapro/process/index.md).
